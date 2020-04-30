@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OVERALL GROUP TECH",
-    "currentPage": "index.html",
+    "currentPage": "monthofmaygift.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -641,10 +641,10 @@
         }
       ]
     },
-    "page2.html": {
+    "monthofmaygift.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Page 2",
+        "title": "Month Of May Gift",
         "order": 1
       },
       "components": [
